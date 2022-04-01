@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositorio contem todas as atividades de aprendizagem desenvolvidas por _[Chrystian de Sousa Strummiello](https://www.linkedin.com/in/chrystian-strummiello-a3a725234/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositorio contem todas as atividades de aprendizagem desenvolvidas por _[Chrystian de Sousa Strummiello](https://www.linkedin.com/in/chrystian-strummiello-a3a725234/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa sÃ³ paga quando conseguir um bom trabalho."_
 
