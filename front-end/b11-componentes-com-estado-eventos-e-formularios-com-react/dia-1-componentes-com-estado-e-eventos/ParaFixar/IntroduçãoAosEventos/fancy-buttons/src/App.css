@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 10px;
+}
+
+.Botão {
+  font-size: 18px;
+  padding: 5px 20px;
+  margin: 5px;
+  color: #4CAF50;
+  background-color: rgb(245, 245, 245);
+  border-radius: 5px;
+  border: solid 1px #4CAF50;
+}
+
+.Botão:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
