@@ -1,12 +1,4 @@
-FROM chuanwen/cowsay
-WORKDIR /site b
-
-COPY config.toml config.toml
-COPY index.html /site/layouts/index.html
-COPY _index.md /site/content/_index.md
-
-RUN apk add hugo
-RUN hugo --minify --gc
-RUN mv /site/public/* /usr/share/nginx/html
-
-ENTRYPOINT ["nginx", "-g", "daemon off;"]
+FROM httpd:2.4
+COPY index.html /usr/local/apache2/htdocs/
+EXPOSE 80
+CMD ["httpd-foreground"]
